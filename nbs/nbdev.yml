@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-scratch"
+  site-url: "https://scathers.github.io/nbdev-scratch"
+  description: "nbdev scratchpad for tutorial"
+  repo-branch: main
+  repo-url: "https://github.com/scathers/nbdev-scratch"
